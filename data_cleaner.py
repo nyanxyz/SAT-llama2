@@ -13,6 +13,9 @@ with open('data.csv', 'r', encoding='utf-8') as file:
         choices = row['choices']
         answer = row['answer']
 
+        if question_type != 'grammar':
+            continue
+
         passage = passage.replace('\n', ' ')
         original = original.replace('\n', ' ')
         question = question.replace('\n', ' ')
@@ -43,7 +46,7 @@ with open('data.csv', 'r', encoding='utf-8') as file:
             'answer': answer,
         })
 
-with open('data_cleaned.csv', 'w', newline='', encoding='utf-8') as file:
+with open('grammar_data_cleaned.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.DictWriter(file, fieldnames=['type', 'passage', 'original', 'question', 'choices', 'answer'])
     writer.writeheader()
     writer.writerows(processed_rows)

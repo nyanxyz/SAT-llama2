@@ -1,0 +1,514 @@
+type,passage,original,question,choices,answer,text
+find the subject,"The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid. <quote> Miss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest. </quote>","The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid. <quote> Miss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest. </quote>",Which choice best states the main purpose of the text?,A) To convey the worries brought about by a new guest B) To describe how the characters have changed over time C) To contrast the activity indoors with the stillness outside D) To depict the setting as the characters await a visitor’s arrival,To depict the setting as the characters await a visitor’s arrival,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid. <quote> Miss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest. </quote> [/INST] {
+  ""passage"": ""The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid. <quote> Miss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest. </quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To depict the setting as the characters await a visitor’s arrival"",
+  ""choices"": ""A) To convey the worries brought about by a new guest B) To describe how the characters have changed over time C) To contrast the activity indoors with the stillness outside D) To depict the setting as the characters await a visitor’s arrival""
+} </s>"
+find the subject,"The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes. <quote>There shall be new roads wending, A new beating of the drum— Men’s eyes shall have fresh seeing, Grey lives reprise their span— But under the new sun’s being, Completing what night began, There’ll be the same backs bending, The same sad feet shall drum— When this night finds its ending And day shall have come.....</quote>","The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes. <quote>There shall be new roads wending, A new beating of the drum— Men’s eyes shall have fresh seeing, Grey lives reprise their span— But under the new sun’s being, Completing what night began, There’ll be the same backs bending, The same sad feet shall drum— When this night finds its ending And day shall have come.....</quote>",Which choice best states the main purpose of the text?,A) To consider how the repetitiveness inherent in human life can be both rewarding and challenging B) To question whether activities completed at one time of day are more memorable than those completed at another time of day C) To refute the idea that joy is a more commonly experienced emotion than sadness is D) To demonstrate how the experiences of individuals relate to the experiences of their communities,To consider how the repetitiveness inherent in human life can be both rewarding and challenging,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes. <quote>There shall be new roads wending, A new beating of the drum— Men’s eyes shall have fresh seeing, Grey lives reprise their span— But under the new sun’s being, Completing what night began, There’ll be the same backs bending, The same sad feet shall drum— When this night finds its ending And day shall have come.....</quote> [/INST] {
+  ""passage"": ""The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes. <quote>There shall be new roads wending, A new beating of the drum— Men’s eyes shall have fresh seeing, Grey lives reprise their span— But under the new sun’s being, Completing what night began, There’ll be the same backs bending, The same sad feet shall drum— When this night finds its ending And day shall have come.....</quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To consider how the repetitiveness inherent in human life can be both rewarding and challenging"",
+  ""choices"": ""A) To consider how the repetitiveness inherent in human life can be both rewarding and challenging B) To question whether activities completed at one time of day are more memorable than those completed at another time of day C) To refute the idea that joy is a more commonly experienced emotion than sadness is D) To demonstrate how the experiences of individuals relate to the experiences of their communities""
+} </s>"
+find the subject,"The following text is adapted from Jane Austen’s 1814 novel <em>Mansfield Park</em>. The speaker, Tom, is considering staging a play at home with a group of his friends and family. <quote>We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.</quote>","The following text is adapted from Jane Austen’s 1814 novel <em>Mansfield Park</em>. The speaker, Tom, is considering staging a play at home with a group of his friends and family. <quote>We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.</quote>",Which choice best states the main purpose of the text?,A) To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people B) To clarify that the play will not be performed in the manner Tom had originally intended C) To elaborate on the idea that the people around Tom lack the skills to successfully stage a play D) To assert that Tom believes the group performing the play will be able to successfully promote it,To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is adapted from Jane Austen’s 1814 novel <em>Mansfield Park</em>. The speaker, Tom, is considering staging a play at home with a group of his friends and family. <quote>We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.</quote> [/INST] {
+  ""passage"": ""The following text is adapted from Jane Austen’s 1814 novel <em>Mansfield Park</em>. The speaker, Tom, is considering staging a play at home with a group of his friends and family. <quote>We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.</quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people"",
+  ""choices"": ""A) To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people B) To clarify that the play will not be performed in the manner Tom had originally intended C) To elaborate on the idea that the people around Tom lack the skills to successfully stage a play D) To assert that Tom believes the group performing the play will be able to successfully promote it""
+} </s>"
+find the subject,"Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album <em>Turbulent Indigo</em> (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s <em>Self-Portrait with Bandaged Ear</em> (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover.","Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album <em>Turbulent Indigo</em> (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s <em>Self-Portrait with Bandaged Ear</em> (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover.",Which choice best describes the overall structure of the text?,"A) It presents a claim about Mitchell, then gives an example supporting that claim. B) It discusses Van Gogh’s influence on Mitchell, then considers Mitchell’s influence on other artists. C) It describes a similarity between two artists, then notes a difference between them. D) It describes the songs on <em>Turbulent Indigo</em>, then explains how they relate to the album’s cover.","It presents a claim about Mitchell, then gives an example supporting that claim.","<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album <em>Turbulent Indigo</em> (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s <em>Self-Portrait with Bandaged Ear</em> (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover. [/INST] {
+  ""passage"": ""Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album <em>Turbulent Indigo</em> (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s <em>Self-Portrait with Bandaged Ear</em> (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover."",
+  ""question"": ""Which choice best describes the overall structure of the text?"",
+  ""answer"": ""It presents a claim about Mitchell, then gives an example supporting that claim."",
+  ""choices"": ""A) It presents a claim about Mitchell, then gives an example supporting that claim. B) It discusses Van Gogh’s influence on Mitchell, then considers Mitchell’s influence on other artists. C) It describes a similarity between two artists, then notes a difference between them. D) It describes the songs on <em>Turbulent Indigo</em>, then explains how they relate to the album’s cover.""
+} </s>"
+find the subject,"In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated “bots” out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project.","In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated “bots” out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project.",Which choice best states the main purpose of the text?,A) To discuss von Ahn’s invention of reCAPTCHA B) To explain how digital scanners work C) To call attention to von Ahn’s book-digitizing project D) To indicate how popular reCAPTCHA is,To discuss von Ahn’s invention of reCAPTCHA,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated “bots” out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project. [/INST] {
+  ""passage"": ""In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated “bots” out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project."",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To discuss von Ahn’s invention of reCAPTCHA"",
+  ""choices"": ""A) To discuss von Ahn’s invention of reCAPTCHA B) To explain how digital scanners work C) To call attention to von Ahn’s book-digitizing project D) To indicate how popular reCAPTCHA is""
+} </s>"
+find the subject,"The following text is from Maggie Pogue Johnson’s 1910 poem “Poet of Our Race.” In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author. <quote>Thou, with stroke of mighty pen, Hast told of joy and mirth, And read the hearts and souls of men As cradled from their birth. The language of the flowers, Thou hast read them all, And e’en the little brook Responded to thy call.</quote>","The following text is from Maggie Pogue Johnson’s 1910 poem “Poet of Our Race.” In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author. <quote>Thou, with stroke of mighty pen, Hast told of joy and mirth, And read the hearts and souls of men As cradled from their birth. The language of the flowers, Thou hast read them all, And e’en the little brook Responded to thy call.</quote>",Which choice best states the main purpose of the text?,A) To praise a certain writer for being especially perceptive regarding people and nature B) To establish that a certain writer has read extensively about a variety of topics C) To call attention to a certain writer’s careful and elaborately detailed writing process D) To recount fond memories of an afternoon spent in nature with a certain writer,To praise a certain writer for being especially perceptive regarding people and nature,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from Maggie Pogue Johnson’s 1910 poem “Poet of Our Race.” In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author. <quote>Thou, with stroke of mighty pen, Hast told of joy and mirth, And read the hearts and souls of men As cradled from their birth. The language of the flowers, Thou hast read them all, And e’en the little brook Responded to thy call.</quote> [/INST] {
+  ""passage"": ""The following text is from Maggie Pogue Johnson’s 1910 poem “Poet of Our Race.” In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author. <quote>Thou, with stroke of mighty pen, Hast told of joy and mirth, And read the hearts and souls of men As cradled from their birth. The language of the flowers, Thou hast read them all, And e’en the little brook Responded to thy call.</quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To praise a certain writer for being especially perceptive regarding people and nature"",
+  ""choices"": ""A) To praise a certain writer for being especially perceptive regarding people and nature B) To establish that a certain writer has read extensively about a variety of topics C) To call attention to a certain writer’s careful and elaborately detailed writing process D) To recount fond memories of an afternoon spent in nature with a certain writer""
+} </s>"
+find the subject,The following text is from Charlotte Brontë’s 1847 novel <em>Jane Eyre</em>. Jane works as a governess at Thornfield Hall. <quote>I went on with my day’s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.</quote>,The following text is from Charlotte Brontë’s 1847 novel <em>Jane Eyre</em>. Jane works as a governess at Thornfield Hall. <quote>I went on with my day’s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.</quote>,Which choice best states the main purpose of the text?,A) To convey a contrast between Jane’s outward calmness and internal restlessness B) To emphasize Jane’s loyalty to the people she works for at Thornfield Hall C) To demonstrate that Jane finds her situation both challenging and deeply fulfilling D) To describe Jane’s determination to secure employment outside of Thornfield Hall,To convey a contrast between Jane’s outward calmness and internal restlessness,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from Charlotte Brontë’s 1847 novel <em>Jane Eyre</em>. Jane works as a governess at Thornfield Hall. <quote>I went on with my day’s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.</quote> [/INST] {
+  ""passage"": ""The following text is from Charlotte Brontë’s 1847 novel <em>Jane Eyre</em>. Jane works as a governess at Thornfield Hall. <quote>I went on with my day’s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.</quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To convey a contrast between Jane’s outward calmness and internal restlessness"",
+  ""choices"": ""A) To convey a contrast between Jane’s outward calmness and internal restlessness B) To emphasize Jane’s loyalty to the people she works for at Thornfield Hall C) To demonstrate that Jane finds her situation both challenging and deeply fulfilling D) To describe Jane’s determination to secure employment outside of Thornfield Hall""
+} </s>"
+find the subject,"The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 27.” The poem is addressed to a close friend as if he were physically present. Weary with toil, I [hurry] to my bed, The dear repose for limbs with travel tired; But then begins a journey in my head To work my mind, when body’s work’s expired: For then my thoughts—from far where I abide— [Begin] a zealous pilgrimage to thee, And keep my drooping eyelids open wide,","The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 27.” The poem is addressed to a close friend as if he were physically present. Weary with toil, I [hurry] to my bed, The dear repose for limbs with travel tired; But then begins a journey in my head To work my mind, when body’s work’s expired: For then my thoughts—from far where I abide— [Begin] a zealous pilgrimage to thee, And keep my drooping eyelids open wide,",What is the main idea of the text?,A) The speaker is asleep and dreaming about traveling to see the friend. B) The speaker is planning an upcoming trip to the friend’s house. C) The speaker is too fatigued to continue a discussion with the friend. D) The speaker is thinking about the friend instead of immediately falling asleep.,The speaker is thinking about the friend instead of immediately falling asleep.,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 27.” The poem is addressed to a close friend as if he were physically present. Weary with toil, I [hurry] to my bed, The dear repose for limbs with travel tired; But then begins a journey in my head To work my mind, when body’s work’s expired: For then my thoughts—from far where I abide— [Begin] a zealous pilgrimage to thee, And keep my drooping eyelids open wide, [/INST] {
+  ""passage"": ""The following text is adapted from William Shakespeare’s 1609 poem “Sonnet 27.” The poem is addressed to a close friend as if he were physically present. Weary with toil, I [hurry] to my bed, The dear repose for limbs with travel tired; But then begins a journey in my head To work my mind, when body’s work’s expired: For then my thoughts—from far where I abide— [Begin] a zealous pilgrimage to thee, And keep my drooping eyelids open wide,"",
+  ""question"": ""What is the main idea of the text?"",
+  ""answer"": ""The speaker is thinking about the friend instead of immediately falling asleep."",
+  ""choices"": ""A) The speaker is asleep and dreaming about traveling to see the friend. B) The speaker is planning an upcoming trip to the friend’s house. C) The speaker is too fatigued to continue a discussion with the friend. D) The speaker is thinking about the friend instead of immediately falling asleep.""
+} </s>"
+find the subject,"The following text is from Georgia Douglas Johnson’s 1922 poem “Benediction.” <quote>Go forth, my son, Winged by my heart’s desire! Great reaches, yet unknown, Await For your possession. I may not, if I would, Retrace the way with you, My pilgrimage is through, But life is calling you!</quote>","The following text is from Georgia Douglas Johnson’s 1922 poem “Benediction.” <quote>Go forth, my son, Winged by my heart’s desire! Great reaches, yet unknown, Await For your possession. I may not, if I would, Retrace the way with you, My pilgrimage is through, But life is calling you!</quote>",Which choice best states the main purpose of the text?,A) To express hope that a child will have the same accomplishments as his parent did B) To suggest that raising a child involves many struggles C) To warn a child that he will face many challenges throughout his life D) To encourage a child to embrace the experiences life will offer,To encourage a child to embrace the experiences life will offer,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from Georgia Douglas Johnson’s 1922 poem “Benediction.” <quote>Go forth, my son, Winged by my heart’s desire! Great reaches, yet unknown, Await For your possession. I may not, if I would, Retrace the way with you, My pilgrimage is through, But life is calling you!</quote> [/INST] {
+  ""passage"": ""The following text is from Georgia Douglas Johnson’s 1922 poem “Benediction.” <quote>Go forth, my son, Winged by my heart’s desire! Great reaches, yet unknown, Await For your possession. I may not, if I would, Retrace the way with you, My pilgrimage is through, But life is calling you!</quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To encourage a child to embrace the experiences life will offer"",
+  ""choices"": ""A) To express hope that a child will have the same accomplishments as his parent did B) To suggest that raising a child involves many struggles C) To warn a child that he will face many challenges throughout his life D) To encourage a child to embrace the experiences life will offer""
+} </s>"
+find the subject,"In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples’ stories.","In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples’ stories.",Which choice best states the main idea of the text?,"A) Even though there have been some changes in their role, jalis continue to preserve their communities’ histories. B) Although jalis have many roles, many of them like teaching best. C) Jalis have been entertaining the people within their communities for centuries. D) Technology can now do some of the things jalis used to be responsible for.","Even though there have been some changes in their role, jalis continue to preserve their communities’ histories.","<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples’ stories. [/INST] {
+  ""passage"": ""In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples’ stories."",
+  ""question"": ""Which choice best states the main idea of the text?"",
+  ""answer"": ""Even though there have been some changes in their role, jalis continue to preserve their communities’ histories."",
+  ""choices"": ""A) Even though there have been some changes in their role, jalis continue to preserve their communities’ histories. B) Although jalis have many roles, many of them like teaching best. C) Jalis have been entertaining the people within their communities for centuries. D) Technology can now do some of the things jalis used to be responsible for.""
+} </s>"
+find the subject,"In 1934 physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in 2021 that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression—the first visual confirmation of the Wigner crystal.","In 1934 physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in 2021 that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression—the first visual confirmation of the Wigner crystal.",Which choice best states the main idea of the text?,A) Researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal. B) Researchers have identified an innovative new method for working with unusual crystalline structures. C) Graphene is the most important of the components required to capture an image of a Wigner crystal. D) It’s difficult to acquire an image of a Wigner crystal because of the crystal’s honeycomb structure.,Researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal.,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+In 1934 physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in 2021 that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression—the first visual confirmation of the Wigner crystal. [/INST] {
+  ""passage"": ""In 1934 physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in 2021 that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression—the first visual confirmation of the Wigner crystal."",
+  ""question"": ""Which choice best states the main idea of the text?"",
+  ""answer"": ""Researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal."",
+  ""choices"": ""A) Researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal. B) Researchers have identified an innovative new method for working with unusual crystalline structures. C) Graphene is the most important of the components required to capture an image of a Wigner crystal. D) It’s difficult to acquire an image of a Wigner crystal because of the crystal’s honeycomb structure.""
+} </s>"
+find the subject,"The following text is adapted from Gwendolyn Bennett’s 1926 poem “Street Lamps in Early Spring.” <quote>Night wears a garment All velvet soft, all violet blue... And over her face she draws a veil As shimmering fine as floating dew... And here and there In the black of her hair The subtle hands of Night Move slowly with their gem-starred light. </quote>","The following text is adapted from Gwendolyn Bennett’s 1926 poem “Street Lamps in Early Spring.” <quote>Night wears a garment All velvet soft, all violet blue... And over her face she draws a veil As shimmering fine as floating dew... And here and there In the black of her hair The subtle hands of Night Move slowly with their gem-starred light. </quote>",Which choice best describes the overall structure of the text?,"A) It presents alternating descriptions of night in a rural area and in a city. B) It sketches an image of nightfall, then an image of sunrise. C) It makes an extended comparison of night to a human being. D) It portrays how night changes from one season of the year to the next.",It makes an extended comparison of night to a human being.,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is adapted from Gwendolyn Bennett’s 1926 poem “Street Lamps in Early Spring.” <quote>Night wears a garment All velvet soft, all violet blue... And over her face she draws a veil As shimmering fine as floating dew... And here and there In the black of her hair The subtle hands of Night Move slowly with their gem-starred light. </quote> [/INST] {
+  ""passage"": ""The following text is adapted from Gwendolyn Bennett’s 1926 poem “Street Lamps in Early Spring.” <quote>Night wears a garment All velvet soft, all violet blue... And over her face she draws a veil As shimmering fine as floating dew... And here and there In the black of her hair The subtle hands of Night Move slowly with their gem-starred light. </quote>"",
+  ""question"": ""Which choice best describes the overall structure of the text?"",
+  ""answer"": ""It makes an extended comparison of night to a human being."",
+  ""choices"": ""A) It presents alternating descriptions of night in a rural area and in a city. B) It sketches an image of nightfall, then an image of sunrise. C) It makes an extended comparison of night to a human being. D) It portrays how night changes from one season of the year to the next.""
+} </s>"
+find the subject,"The following text is adapted from Susan Glaspell’s 1912 short story “‘Out There.’” An elderly shop owner is looking at a picture that he recently acquired and hopes to sell. <quote>It did seem that the picture failed to fit in with the rest of the shop. A persuasive young fellow who claimed he was closing out his stock let the old man have it for what he called a song. It was only a little out-of-the-way store which subsisted chiefly on the framing of pictures. The old man looked around at his views of the city, his pictures of cats and dogs, his flaming bits of landscape. “Don’t belong in here,” he fumed. And yet the old man was secretly proud of his acquisition. There was a hidden dignity in his scowling as he shuffled about pondering the least ridiculous place for the picture</quote>","The following text is adapted from Susan Glaspell’s 1912 short story “‘Out There.’” An elderly shop owner is looking at a picture that he recently acquired and hopes to sell. <quote>It did seem that the picture failed to fit in with the rest of the shop. A persuasive young fellow who claimed he was closing out his stock let the old man have it for what he called a song. It was only a little out-of-the-way store which subsisted chiefly on the framing of pictures. The old man looked around at his views of the city, his pictures of cats and dogs, his flaming bits of landscape. “Don’t belong in here,” he fumed. And yet the old man was secretly proud of his acquisition. There was a hidden dignity in his scowling as he shuffled about pondering the least ridiculous place for the picture</quote>",Which choice best states the main purpose of the text?,A) To reveal the shop owner’s conflicted feelings about the new picture B) To convey the shop owner’s resentment of the person he got the new picture from C) To describe the items that the shop owner most highly prizes D) To explain differences between the new picture and other pictures in the shop,To reveal the shop owner’s conflicted feelings about the new picture,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is adapted from Susan Glaspell’s 1912 short story “‘Out There.’” An elderly shop owner is looking at a picture that he recently acquired and hopes to sell. <quote>It did seem that the picture failed to fit in with the rest of the shop. A persuasive young fellow who claimed he was closing out his stock let the old man have it for what he called a song. It was only a little out-of-the-way store which subsisted chiefly on the framing of pictures. The old man looked around at his views of the city, his pictures of cats and dogs, his flaming bits of landscape. “Don’t belong in here,” he fumed. And yet the old man was secretly proud of his acquisition. There was a hidden dignity in his scowling as he shuffled about pondering the least ridiculous place for the picture</quote> [/INST] {
+  ""passage"": ""The following text is adapted from Susan Glaspell’s 1912 short story “‘Out There.’” An elderly shop owner is looking at a picture that he recently acquired and hopes to sell. <quote>It did seem that the picture failed to fit in with the rest of the shop. A persuasive young fellow who claimed he was closing out his stock let the old man have it for what he called a song. It was only a little out-of-the-way store which subsisted chiefly on the framing of pictures. The old man looked around at his views of the city, his pictures of cats and dogs, his flaming bits of landscape. “Don’t belong in here,” he fumed. And yet the old man was secretly proud of his acquisition. There was a hidden dignity in his scowling as he shuffled about pondering the least ridiculous place for the picture</quote>"",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""To reveal the shop owner’s conflicted feelings about the new picture"",
+  ""choices"": ""A) To reveal the shop owner’s conflicted feelings about the new picture B) To convey the shop owner’s resentment of the person he got the new picture from C) To describe the items that the shop owner most highly prizes D) To explain differences between the new picture and other pictures in the shop""
+} </s>"
+find the subject,"The following text is from the 1923 poem “Black Finger” by Angelina Weld Grimké, a Black American writer. A cypress is a type of evergreen tree. <quote>I have just seen a most beautiful thing, Slim and still, Against a gold, gold sky, A straight black cypress, Sensitive, Exquisite, A black finger Pointing upwards. Why, beautiful still finger, are you black? And why are you pointing upwards? </quote>","The following text is from the 1923 poem “Black Finger” by Angelina Weld Grimké, a Black American writer. A cypress is a type of evergreen tree. <quote>I have just seen a most beautiful thing, Slim and still, Against a gold, gold sky, A straight black cypress, Sensitive, Exquisite, A black finger Pointing upwards. Why, beautiful still finger, are you black? And why are you pointing upwards? </quote>",Which choice best describes the overall structure of the text?,"A) The speaker assesses a natural phenomenon, then questions the accuracy of her assessment. B) The speaker describes a distinctive sight in nature, then ponders what meaning to attribute to that sight. C) The speaker presents an outdoor scene, then considers a human behavior occurring within that scene. D) The speaker examines her surroundings, then speculates about their influence on her emotional state.","The speaker describes a distinctive sight in nature, then ponders what meaning to attribute to that sight.","<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from the 1923 poem “Black Finger” by Angelina Weld Grimké, a Black American writer. A cypress is a type of evergreen tree. <quote>I have just seen a most beautiful thing, Slim and still, Against a gold, gold sky, A straight black cypress, Sensitive, Exquisite, A black finger Pointing upwards. Why, beautiful still finger, are you black? And why are you pointing upwards? </quote> [/INST] {
+  ""passage"": ""The following text is from the 1923 poem “Black Finger” by Angelina Weld Grimké, a Black American writer. A cypress is a type of evergreen tree. <quote>I have just seen a most beautiful thing, Slim and still, Against a gold, gold sky, A straight black cypress, Sensitive, Exquisite, A black finger Pointing upwards. Why, beautiful still finger, are you black? And why are you pointing upwards? </quote>"",
+  ""question"": ""Which choice best describes the overall structure of the text?"",
+  ""answer"": ""The speaker describes a distinctive sight in nature, then ponders what meaning to attribute to that sight."",
+  ""choices"": ""A) The speaker assesses a natural phenomenon, then questions the accuracy of her assessment. B) The speaker describes a distinctive sight in nature, then ponders what meaning to attribute to that sight. C) The speaker presents an outdoor scene, then considers a human behavior occurring within that scene. D) The speaker examines her surroundings, then speculates about their influence on her emotional state.""
+} </s>"
+find the subject,"The following text is from Walt Whitman’s 1860 poem “Calamus 24.” <quote>I HEAR it is charged against me that I seek to destroy institutions; But really I am neither for nor against institutions (What indeed have I in common with them?— Or what with the destruction of them?), Only I will establish in the Mannahatta [Manhattan] and in every city of These States, inland and seaboard, And in the fields and woods, and above every keel [ship] little or large, that dents the water, Without edifices, or rules, or trustees, or any argument, The institution of the dear love of comrades. </quote>","The following text is from Walt Whitman’s 1860 poem “Calamus 24.” <quote>I HEAR it is charged against me that I seek to destroy institutions; But really I am neither for nor against institutions (What indeed have I in common with them?— Or what with the destruction of them?), Only I will establish in the Mannahatta [Manhattan] and in every city of These States, inland and seaboard, And in the fields and woods, and above every keel [ship] little or large, that dents the water, Without edifices, or rules, or trustees, or any argument, The institution of the dear love of comrades. </quote>",Which choice best describes the overall structure of the text?,"A) The speaker questions an increasingly prevalent attitude, then summarizes his worldview. B) The speaker regrets his isolation from others, then predicts a profound change in society. C) The speaker concedes his personal shortcomings, then boasts of his many achievements. D) The speaker addresses a criticism leveled against him, then announces a grand ambition of his.","The speaker addresses a criticism leveled against him, then announces a grand ambition of his.","<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is from Walt Whitman’s 1860 poem “Calamus 24.” <quote>I HEAR it is charged against me that I seek to destroy institutions; But really I am neither for nor against institutions (What indeed have I in common with them?— Or what with the destruction of them?), Only I will establish in the Mannahatta [Manhattan] and in every city of These States, inland and seaboard, And in the fields and woods, and above every keel [ship] little or large, that dents the water, Without edifices, or rules, or trustees, or any argument, The institution of the dear love of comrades. </quote> [/INST] {
+  ""passage"": ""The following text is from Walt Whitman’s 1860 poem “Calamus 24.” <quote>I HEAR it is charged against me that I seek to destroy institutions; But really I am neither for nor against institutions (What indeed have I in common with them?— Or what with the destruction of them?), Only I will establish in the Mannahatta [Manhattan] and in every city of These States, inland and seaboard, And in the fields and woods, and above every keel [ship] little or large, that dents the water, Without edifices, or rules, or trustees, or any argument, The institution of the dear love of comrades. </quote>"",
+  ""question"": ""Which choice best describes the overall structure of the text?"",
+  ""answer"": ""The speaker addresses a criticism leveled against him, then announces a grand ambition of his."",
+  ""choices"": ""A) The speaker questions an increasingly prevalent attitude, then summarizes his worldview. B) The speaker regrets his isolation from others, then predicts a profound change in society. C) The speaker concedes his personal shortcomings, then boasts of his many achievements. D) The speaker addresses a criticism leveled against him, then announces a grand ambition of his.""
+} </s>"
+find the subject,"The following text is adapted from Frances Hodgson Burnett’s 1911 novel The Secret Garden. Mary, a young girl, recently found an overgrown hidden garden. <quote>Mary was an odd, determined little person, and now she had something interesting to be determined about, she was very much absorbed, indeed. She worked and dug and pulled up weeds steadily, only becoming more pleased with her work every hour instead of tiring of it. It seemed to her like a fascinating sort of play. </quote>","The following text is adapted from Frances Hodgson Burnett’s 1911 novel The Secret Garden. Mary, a young girl, recently found an overgrown hidden garden. <quote>Mary was an odd, determined little person, and now she had something interesting to be determined about, she was very much absorbed, indeed. She worked and dug and pulled up weeds steadily, only becoming more pleased with her work every hour instead of tiring of it. It seemed to her like a fascinating sort of play. </quote>",Which choice best states the main idea of the text?,A) Mary hides in the garden to avoid doing her chores. B) Mary is getting bored with pulling up so many weeds in the garden. C) Mary is clearing out the garden to create a space to play. D) Mary feels very satisfied when she’s taking care of the garden.,Mary feels very satisfied when she’s taking care of the garden.,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is adapted from Frances Hodgson Burnett’s 1911 novel The Secret Garden. Mary, a young girl, recently found an overgrown hidden garden. <quote>Mary was an odd, determined little person, and now she had something interesting to be determined about, she was very much absorbed, indeed. She worked and dug and pulled up weeds steadily, only becoming more pleased with her work every hour instead of tiring of it. It seemed to her like a fascinating sort of play. </quote> [/INST] {
+  ""passage"": ""The following text is adapted from Frances Hodgson Burnett’s 1911 novel The Secret Garden. Mary, a young girl, recently found an overgrown hidden garden. <quote>Mary was an odd, determined little person, and now she had something interesting to be determined about, she was very much absorbed, indeed. She worked and dug and pulled up weeds steadily, only becoming more pleased with her work every hour instead of tiring of it. It seemed to her like a fascinating sort of play. </quote>"",
+  ""question"": ""Which choice best states the main idea of the text?"",
+  ""answer"": ""Mary feels very satisfied when she’s taking care of the garden."",
+  ""choices"": ""A) Mary hides in the garden to avoid doing her chores. B) Mary is getting bored with pulling up so many weeds in the garden. C) Mary is clearing out the garden to create a space to play. D) Mary feels very satisfied when she’s taking care of the garden.""
+} </s>"
+find the subject,"The following text is adapted from Jack London’s 1903 novel The Call of the Wild. Buck is a sled dog living with John Thornton in Yukon, Canada. <quote>Thornton alone held [Buck]. The rest of mankind was as nothing. Chance travellers might praise or pet him; but he was cold under it all, and from a too demonstrative man he would get up and walk away. When Thornton’s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting favors from them as though he favored them by accepting. </quote>","The following text is adapted from Jack London’s 1903 novel The Call of the Wild. Buck is a sled dog living with John Thornton in Yukon, Canada. <quote>Thornton alone held [Buck]. The rest of mankind was as nothing. Chance travellers might praise or pet him; but he was cold under it all, and from a too demonstrative man he would get up and walk away. When Thornton’s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting favors from them as though he favored them by accepting. </quote>",Which choice best states the main idea of the text?,A) Buck has become less social since he began living with Thornton. B) Buck mistrusts humans and does his best to avoid them. C) Buck has been especially well liked by most of Thornton’s friends. D) Buck holds Thornton in higher regard than any other person,Buck holds Thornton in higher regard than any other person,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+The following text is adapted from Jack London’s 1903 novel The Call of the Wild. Buck is a sled dog living with John Thornton in Yukon, Canada. <quote>Thornton alone held [Buck]. The rest of mankind was as nothing. Chance travellers might praise or pet him; but he was cold under it all, and from a too demonstrative man he would get up and walk away. When Thornton’s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting favors from them as though he favored them by accepting. </quote> [/INST] {
+  ""passage"": ""The following text is adapted from Jack London’s 1903 novel The Call of the Wild. Buck is a sled dog living with John Thornton in Yukon, Canada. <quote>Thornton alone held [Buck]. The rest of mankind was as nothing. Chance travellers might praise or pet him; but he was cold under it all, and from a too demonstrative man he would get up and walk away. When Thornton’s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting favors from them as though he favored them by accepting. </quote>"",
+  ""question"": ""Which choice best states the main idea of the text?"",
+  ""answer"": ""Buck holds Thornton in higher regard than any other person"",
+  ""choices"": ""A) Buck has become less social since he began living with Thornton. B) Buck mistrusts humans and does his best to avoid them. C) Buck has been especially well liked by most of Thornton’s friends. D) Buck holds Thornton in higher regard than any other person""
+} </s>"
+find the subject,"To dye wool, Navajo (Diné) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug In the Path of the Four Seasons by using Arizona dock roots, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil.","To dye wool, Navajo (Diné) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug In the Path of the Four Seasons by using Arizona dock roots, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil.",Which choice best states the main idea of the text?,A) Reds and browns are not commonly featured in most of Taylor’s rugs. B) In the Path of the Four Seasons is widely acclaimed for its many colors and innovative weaving techniques. C) Taylor draws on local resources in the approach she uses to dye wool. D) Taylor finds it difficult to locate Arizona dock root in the desert.,Taylor draws on local resources in the approach she uses to dye wool.,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+To dye wool, Navajo (Diné) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug In the Path of the Four Seasons by using Arizona dock roots, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil. [/INST] {
+  ""passage"": ""To dye wool, Navajo (Diné) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug In the Path of the Four Seasons by using Arizona dock roots, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil."",
+  ""question"": ""Which choice best states the main idea of the text?"",
+  ""answer"": ""Taylor draws on local resources in the approach she uses to dye wool."",
+  ""choices"": ""A) Reds and browns are not commonly featured in most of Taylor’s rugs. B) In the Path of the Four Seasons is widely acclaimed for its many colors and innovative weaving techniques. C) Taylor draws on local resources in the approach she uses to dye wool. D) Taylor finds it difficult to locate Arizona dock root in the desert.""
+} </s>"
+find the subject,"Some studies have suggested that posture can influence cognition, but we should not overstate this phenomenon. A case in point: In a 2014 study, Megan O’Brien and Alaa Ahmed had subjects stand or sit while making risky simulated economic decisions. Standing is more physically unstable and cognitively demanding than sitting; accordingly, O’Brien and Ahmed hypothesized that standing subjects would display more risk aversion during the decision-making tasks than sitting subjects did, since they would want to avoid further feelings of discomfort and complicated risk evaluations. But O’Brien and Ahmed actually found no difference in the groups’ performance.","Some studies have suggested that posture can influence cognition, but we should not overstate this phenomenon. A case in point: In a 2014 study, Megan O’Brien and Alaa Ahmed had subjects stand or sit while making risky simulated economic decisions. Standing is more physically unstable and cognitively demanding than sitting; accordingly, O’Brien and Ahmed hypothesized that standing subjects would display more risk aversion during the decision-making tasks than sitting subjects did, since they would want to avoid further feelings of discomfort and complicated risk evaluations. But O’Brien and Ahmed actually found no difference in the groups’ performance.",Which choice best states the main purpose of the text?,"A) It presents the study by O’Brien and Ahmed to critique the methods and results reported in previous studies of the effects of posture on cognition. B) It argues that research findings about the effects of posture on cognition are often misunderstood, as in the case of O’Brien and Ahmed’s study. C) It explains a significant problem in the emerging understanding of posture’s effects on cognition and how O’Brien and Ahmed tried to solve that problem. D) It discusses the study by O’Brien and Ahmed to illustrate why caution is needed when making claims about the effects of posture on cognition.",It discusses the study by O’Brien and Ahmed to illustrate why caution is needed when making claims about the effects of posture on cognition.,"<s>[INST] <<SYS>>
+You will be provided with passage to use for creating 'find main purpose' type question.
+Your task is to generate 'find main purpose' SAT-style reading comprehension passage, question, and answer set using the provided passage by following these steps:
+
+Step 1 - Deep Analysis: Analyze the passage thoroughly, focusing on its context, nuances, tone, and style. Identify both the main theme and subtle elements that contribute to it.
+Step 2 - Question Formation: Choose one of the following question formats to use:
+'Which choice best states the main purpose of the text?'
+'Which choice best describes the overall structure of the text?'
+'Which choice best states the main idea of the text?'
+Step 3 - Crafting Choices: Create four choices that are nuanced and complex. One should accurately reflect the main purpose, while the others, although related, should represent sophisticated misunderstandings or partially true interpretations of the theme. Ensure precision in language and vocabulary. Each choice, including the correct answer, should not exceed 15 words.
+Step 4 - Output Format: Present the output in JSON format with the same structure as provided. Pay special attention to the comparative analysis of the choices to ensure the correct answer clearly stands out as the most accurate representation of the main purpose.
+
+Example Output Format:
+{
+  ""passage"": ""Your provided passage here"",
+  ""question"": ""The selected question format from step 2"",
+  ""answer"": ""The main purpose identified in your analysis"",
+  ""choices"": ""A) {choice1} B) {choice2} C) {choice3} D) {choice4}""
+}
+<</SYS>>
+
+Some studies have suggested that posture can influence cognition, but we should not overstate this phenomenon. A case in point: In a 2014 study, Megan O’Brien and Alaa Ahmed had subjects stand or sit while making risky simulated economic decisions. Standing is more physically unstable and cognitively demanding than sitting; accordingly, O’Brien and Ahmed hypothesized that standing subjects would display more risk aversion during the decision-making tasks than sitting subjects did, since they would want to avoid further feelings of discomfort and complicated risk evaluations. But O’Brien and Ahmed actually found no difference in the groups’ performance. [/INST] {
+  ""passage"": ""Some studies have suggested that posture can influence cognition, but we should not overstate this phenomenon. A case in point: In a 2014 study, Megan O’Brien and Alaa Ahmed had subjects stand or sit while making risky simulated economic decisions. Standing is more physically unstable and cognitively demanding than sitting; accordingly, O’Brien and Ahmed hypothesized that standing subjects would display more risk aversion during the decision-making tasks than sitting subjects did, since they would want to avoid further feelings of discomfort and complicated risk evaluations. But O’Brien and Ahmed actually found no difference in the groups’ performance."",
+  ""question"": ""Which choice best states the main purpose of the text?"",
+  ""answer"": ""It discusses the study by O’Brien and Ahmed to illustrate why caution is needed when making claims about the effects of posture on cognition."",
+  ""choices"": ""A) It presents the study by O’Brien and Ahmed to critique the methods and results reported in previous studies of the effects of posture on cognition. B) It argues that research findings about the effects of posture on cognition are often misunderstood, as in the case of O’Brien and Ahmed’s study. C) It explains a significant problem in the emerging understanding of posture’s effects on cognition and how O’Brien and Ahmed tried to solve that problem. D) It discusses the study by O’Brien and Ahmed to illustrate why caution is needed when making claims about the effects of posture on cognition.""
+} </s>"

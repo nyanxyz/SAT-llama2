@@ -18,11 +18,23 @@ with open('data_cleaned.csv', 'r', encoding='utf-8') as file:
         if question_type != 'fill in the blank':
             continue
 
+        distractors = []
+        # parse A) choice1 B) choice2 C) choice3 D) choice4
+        choices = choices.replace('A) ', '||').replace('B) ', '||').replace('C) ', '||').replace('D) ', '||')
+        choices = choices.split('||')
+        for choice in choices:
+            choice = choice.strip()
+            if choice == '':
+                continue
+            if choice == answer:
+                continue
+            distractors.append(choice)
+
         output = "{" + f"""
   "passage": "{original}",
   "question": "{question}",
   "answer": "{answer}",
-  "choices": "{choices}"
+  "distractors": ["{'", "'.join(distractors)}"]
 """ + "}"
 
         text = f"""<s>[INST] <<SYS>>
@@ -46,7 +58,9 @@ with open('data_cleaned.csv', 'r', encoding='utf-8') as file:
             'text': text
         })
 
-with open('fill_in_the_blank/fill_in_the_blank-prompt-5.csv', 'w', newline='', encoding='utf-8') as file:
+print(processed_rows[0]['text'])
+
+with open('fill_in_the_blank/fill_in_the_blank-prompt-8.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.DictWriter(file, fieldnames=['type', 'passage', 'original', 'question', 'choices', 'answer', 'text'])
     writer.writeheader()
     writer.writerows(processed_rows)
